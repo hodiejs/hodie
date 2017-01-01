@@ -1,0 +1,19 @@
+{
+  "name": "hodie",
+  "version": "0.0.1",
+  "description": "A Poliglot Calendar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/russiann/hodie.git"
+  },
+  "author": "Russian Rebouças",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/russiann/hodie/issues"
+  },
+  "homepage": "https://github.com/russiann/hodie#readme"
+}
